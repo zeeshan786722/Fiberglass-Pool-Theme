@@ -30,14 +30,14 @@ We provide **full-service pool installation, maintenance, and cleaning**. Here's
 
 ---
 
-## **Why Choose Pools-Now?** 💪
+## **Why Choose Pools-Now?** 
 - **Experienced Professionals**: Years of experience in pool design and maintenance.
 - **Affordable, No-Nonsense Pricing**: Get high-quality service without the premium price tag.
 - **Customer Satisfaction Guaranteed**: We focus on YOUR needs to ensure the best results.
 
 ---
 
-## **Let’s Build Your Dream Pool!** 🏖️
+## **Let’s Build Your Dream Pool!** 
 
 We believe that everyone deserves a beautiful pool that fits their lifestyle and budget. Let's get started on your perfect pool today!
 
