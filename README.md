@@ -1,51 +1,55 @@
-# Welcome to Pools-Now! 
+#  **Fiberglass Pool Services by Zeeshan**
 
-Looking to dive into a world of **luxurious, durable, and affordable pools**? You've landed at the right place! At **Pools-Now**, we turn your dream pool into reality. Whether you're envisioning a **sleek fiberglass pool**, a **customized concrete masterpiece**, or an **innovative EPS pool**, our team has the expertise to make it happen. 🌟
+Welcome to the official repository of **Fiberglass Pool Services** by Zeeshan. We specialize in providing high-quality **fiberglass pool installation**, **maintenance**, and **cleaning services** for your backyard oasis. 
+
+We are committed to providing top-notch services that not only enhance the look of your home but also ensure safety and durability.
+
+
+## **Our Services**
+
+- **Fiberglass Pool Installation**: Custom-designed pools to match your needs and aesthetic preferences.
+- **Pool Maintenance**: Regular cleaning and maintenance to keep your pool sparkling clean year-round.
+- **Pool Cleaning**: We offer deep cleaning services to remove dirt, algae, and debris from your pool.
+  
+
+
+## 🖼️ **Our Work**
+
+Here are some images of our stunning pool installations:
+
+![Elegant Fiberglass Plunge Pools for Modern Backyard](https://pools-now.com/wp-content/uploads/2025/01/Elegant-Fiberglass-Plunge-Pools-for-Modern-Backyard-1.webp)
+
+![Fiberglass Pool View in Florida](https://pools-now.com/wp-content/uploads/2025/01/fiberglass-pool-view-in-florida-1.webp)
+
+![How Much Is a Fiberglass Pool Cost](https://pools-now.com/wp-content/uploads/2024/12/How-Much-Is-a-Fiberglass-Pool-Cost.webp)
+
+
+
+##  **Visit Our Website**
+
+For more details on our services and pricing, visit our official website:
+
+[**Visit Pools-Now.com**](https://pools-now.com/)
+
+
+##  **Why Choose Us?**
+
+- **Experience**: Over 10 years of expertise in the pool industry.
+- **Quality**: Premium fiberglass pools that last longer and are more durable.
+- **Customer Satisfaction**: We prioritize customer satisfaction and ensure every project is a success.
 
 ---
 
-## **Our Pool Services** 
+##  **Contact Us**
 
-We provide **full-service pool installation, maintenance, and cleaning**. Here's how we can help you:
+Have questions or want to get started with your pool project? Reach out to us today:
 
-### **Fiberglass Pools** 
-- Sleek, modern, and efficient. Ready to install in a flash.  
-- Extremely low maintenance and high durability.  
-- Perfect for homeowners looking for convenience and style.
+- Email: poolsnowfl@gmail.com
+- Phone: (321)-345-9115
 
-### **Concrete Pools** 
-- Fully customizable to suit your unique taste and backyard space.  
-- Sturdy, luxurious, and built to last for generations.  
-- We bring your vision to life with precision craftsmanship.
 
-### **EPS Pools** ⚡
-- Lightweight yet energy-efficient.  
-- Quick installation and cost-effective solutions for all spaces.  
-- A cutting-edge choice for homeowners on the go.
 
-### **Pool Maintenance & Cleaning** 🧽
-- We keep your pool pristine all year round.  
-- Regular maintenance to avoid costly repairs down the line.  
-- Professional cleaning services that ensure sparkling water every time.
+##  **License**
 
----
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## **Why Choose Pools-Now?** 
-- **Experienced Professionals**: Years of experience in pool design and maintenance.
-- **Affordable, No-Nonsense Pricing**: Get high-quality service without the premium price tag.
-- **Customer Satisfaction Guaranteed**: We focus on YOUR needs to ensure the best results.
-
----
-
-## **Let’s Build Your Dream Pool!** 
-
-We believe that everyone deserves a beautiful pool that fits their lifestyle and budget. Let's get started on your perfect pool today!
-
-### **How to Get in Touch**:  
-- 💻 **Visit Our Website**: [Pools-Now.com](https://pools-now.com)  
-- 📧 **Email Us**: support@pools-now.com  
-- 🌍 **Find Us**: Serving clients across [ Idialantic, Florida]
-
---
-
-Ready to make a splash? 🌊 Let’s create the pool of your dreams with Pools-Now!
