@@ -1,19 +1,19 @@
-# Welcome to Pools-Now! 🏊‍♂️
+# Welcome to Pools-Now! 
 
 Looking to dive into a world of **luxurious, durable, and affordable pools**? You've landed at the right place! At **Pools-Now**, we turn your dream pool into reality. Whether you're envisioning a **sleek fiberglass pool**, a **customized concrete masterpiece**, or an **innovative EPS pool**, our team has the expertise to make it happen. 🌟
 
 ---
 
-## **Our Pool Services** 🚧
+## **Our Pool Services** 
 
 We provide **full-service pool installation, maintenance, and cleaning**. Here's how we can help you:
 
-### **Fiberglass Pools** 🌊
+### **Fiberglass Pools** 
 - Sleek, modern, and efficient. Ready to install in a flash.  
 - Extremely low maintenance and high durability.  
 - Perfect for homeowners looking for convenience and style.
 
-### **Concrete Pools** 🏗️
+### **Concrete Pools** 
 - Fully customizable to suit your unique taste and backyard space.  
 - Sturdy, luxurious, and built to last for generations.  
 - We bring your vision to life with precision craftsmanship.
@@ -46,14 +46,6 @@ We believe that everyone deserves a beautiful pool that fits their lifestyle and
 - 📧 **Email Us**: support@pools-now.com  
 - 🌍 **Find Us**: Serving clients across [ Idialantic, Florida]
 
----
-
-## **Check Out Our Latest Projects!** 🔨
-
-We don't just talk about pools; we build them! Dive into our recent work and see for yourself:
-
-🔗 **[Explore Our Latest Pool Projects](https://github.com/YourRepositoryLink)**
-
----
+--
 
 Ready to make a splash? 🌊 Let’s create the pool of your dreams with Pools-Now!
