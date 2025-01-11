@@ -1,13 +1,13 @@
-#  **Fiberglass Pool Services by Pools Now**
+#  ** Pool Services by Pools Now**
 
-Welcome to the official repository of **Fiberglass Pool Services** by Pools Now. We specialize in providing high-quality **fiberglass pool installation**, **maintenance**, and **cleaning services** for your backyard oasis. 
+Welcome to the official repository of *Fiberglass Pool Services** by Pools Now. We specialize in providing high-quality ** pool installation**, **maintenance**, and **cleaning services** for your backyard oasis. 
 
 We are committed to providing top-notch services that not only enhance the look of your home but also ensure safety and durability.
 
 
 ## **Our Services**
 
-- **Fiberglass Pool Installation**: Custom-designed pools to match your needs and aesthetic preferences.
+- **Pool Installation**: Custom-designed pools to match your needs and aesthetic preferences.
 - **Pool Maintenance**: Regular cleaning and maintenance to keep your pool sparkling clean year-round.
 - **Pool Cleaning**: We offer deep cleaning services to remove dirt, algae, and debris from your pool.
   
